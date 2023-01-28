@@ -1,7 +1,7 @@
 import { useCountNumber } from "./useCountNumber";
 
 export default function CountNumberScreen() {
-  const [count, reset, decrease, increase] = useCountNumber();
+  const [count, reset, decrease, increase] = useCountNumber(5);
   return (
     <div
       style={{

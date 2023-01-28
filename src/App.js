@@ -1,13 +1,17 @@
 import ToggleScreen from "./togleHook/ToggleScreen";
 import CountNumberScreen from "./numberCountHook/CountNumberScreen";
+import FetchData from "./generateCatFact/FetchData";
 
 function App() {
   return (
     <>
-      <CountNumberScreen />
-      <ToggleScreen />
+      <FetchData />
+      {/* <CountNumberScreen />
+      <ToggleScreen /> */}
     </>
   );
 }
 
 export default App;
+
+//  https://catfact.ninja/fact

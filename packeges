@@ -1,0 +1,6 @@
+$ npm install axios
+
+free APIs
+    https://api.agify.io./?name=arun => AI generated api(name)   
+    https://excuser-three.vercel.app/v1/excuse/family/
+
