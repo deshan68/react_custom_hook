@@ -50,5 +50,3 @@ export default function FetchData() {
     </div>
   );
 }
-
-// https://excuser-three.vercel.app/v1/excuse/family/
